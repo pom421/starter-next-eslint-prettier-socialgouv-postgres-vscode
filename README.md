@@ -1,6 +1,8 @@
-# Starter pour projet Next et règles de SocialGouv
+# Starter pour projet Next
 
-Starter de projet avec : 
+Starter de projet Next/React, incluant les règles de [SocialGouv](https://github.com/SocialGouv) (linter, boostrap).
+
+Il comprend:
 - next.js (par create-next-app) (+ React Hook supporté)
 - nex.css pour support css externe
 - @material-ui/icons : tous les icones de Material UI
